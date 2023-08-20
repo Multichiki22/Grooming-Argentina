@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    container_name: grooming_client__container
+    image: grooming_client_image
+    restart: no
+    build:
+      context: .
+      target: production
