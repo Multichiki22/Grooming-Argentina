@@ -2,7 +2,6 @@ const course = require("../../models/courses")
 
 const handleCoursesCreation = async (req, res) => {
     const { courseSent } = req.body
-    console.log(courseSent)
     if (!courseSent) return res.status(400).json({ message: "Curso no enviado" })
     if (!courseSent.title || !courseSent.description || !courseSent.thumbnail || !courseSent.link) return res.status(400).json({ message: "Campos faltantes" })
     try {
