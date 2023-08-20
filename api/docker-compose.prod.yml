@@ -5,10 +5,10 @@ services:
     image: grooming_back_end_image
     volumes:
       - .:/app
-    restart: no
+    restart: unless-stopped
     build: .
     ports:
-      - '3000:3000'
+      - '3500:3000'
     depends_on:
       - mongo
   mongo:
