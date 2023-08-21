@@ -1,8 +1,8 @@
 version: '3'
 services:
   app:
-    container_name: grooming_client__container
-    image: grooming_client_image
+    container_name: grooming_dashboard_container
+    image: grooming_dashboard_image
     restart: no
     build:
       context: .
