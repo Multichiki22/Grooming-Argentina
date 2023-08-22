@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "642b14ff28e8ee4a8d1bfdbc"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "Correo electrónico (links a contenido)",
+  "link": "www.linkExample.com",
+  "description": "Estan acosando a un conocido",
+  "name": "",
+  "email": "",
+  "createdAt": {
+    "$date": "2023-04-03T18:03:43.490Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T18:03:43.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642b1e6028e8ee4a8d1bfdc3"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "juegos en Linea",
+  "link": "www.linkExample.com",
+  "description": "Ejemplo de denuncia",
+  "name": "admin",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-03T18:43:44.454Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T18:43:44.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642b218d106dcc16b4168ccb"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "Redes Solciales",
+  "link": "www.linkExample.com",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nulla, at doloremque, dolorem quae facere vitae ipsam sequi, architecto deleniti quos. Harum omnis aperiam exercitationem facilis amet, eveniet facere natus.",
+  "name": "Atilius Erez",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-03T18:57:17.294Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T18:57:17.294Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642b22a95fc1be596c98f024"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "Correo electrónico (links a contenido)",
+  "link": "www.linkExample.com",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nulla, at doloremque, dolorem quae facere vitae ipsam sequi, architecto deleniti quos. Harum omnis aperiam exercitationem facilis amet, eveniet facere natus.",
+  "name": "Mikkel Märta",
+  "email": "patoprogramador@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-03T19:02:01.437Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T19:02:01.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642b23915fc1be596c98f02b"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "juegos en Linea",
+  "link": "www.linkExample.com",
+  "description": "Un juego en linea generico",
+  "name": "",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-03T19:05:53.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T19:05:53.472Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642c7fa4ea567f1f58ec6b08"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "Correo electrónico (links a contenido)",
+  "link": "www.linkExample.com",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nulla, at doloremque, dolorem quae facere vitae ipsam sequi, architecto deleniti quos. Harum omnis aperiam exercitationem facilis amet, eveniet facere natus.",
+  "name": "Juana",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-04T19:51:00.997Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T19:51:00.997Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642c806b4796df04bce2698b"
+  },
+  "situation": "Grooming / Acoso en linea",
+  "where": "Foros o grupos en linea",
+  "link": "www.linkExample.com",
+  "description": "awdadcdvxvasavas",
+  "name": "Aliyya Lysandros",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-04T19:54:20.014Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T19:54:20.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642dbf6cb7c4b55380285a96"
+  },
+  "situation": "Grooming / Acoso en linea",
+  "where": "Correo electrónico (links a contenido)",
+  "link": "www.linkExample.com",
+  "description": "Quisque vel fringilla erat, vel rhoncus sem. Aliquam rutrum lacinia finibus. Vivamus ligula ligula, auctor ornare gravida at, pretium sit amet magna. Mauris et vulputate tellus. Pellentesque auctor interdum lacus, nec aliquam massa pulvinar id. Phasellus maximus lacus vel leo porttitor congue. Phasellus sed metus porta, efficitur nisl non, mattis arcu. Donec venenatis pulvinar turpis, ut pretium nisl. Nunc non ligula et ipsum tincidunt egestas. Aenean et porttitor nisi. Suspendisse vehicula, nis",
+  "name": "Pato programador",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-05T18:35:24.498Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T18:35:24.498Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642dbfb2b7c4b55380285a9e"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "juegos en Linea",
+  "link": "www.linkExample.com",
+  "description": "Quisque vel fringilla erat, vel rhoncus sem. Aliquam rutrum lacinia finibus. Vivamus ligula ligula, auctor ornare gravida at, pretium sit amet magna. Mauris et vulputate tellus. Pellentesque auctor interdum lacus, nec aliquam massa pulvinar id. Phasellus maximus lacus vel leo porttitor congue. Phasellus sed metus porta, efficitur nisl non, mattis arcu. Donec venenatis pulvinar turpis, ut pretium nisl. Nunc non ligula et ipsum tincidunt egestas. Aenean et porttitor nisi. Suspendisse vehicula, nis",
+  "name": "Skiing adawdawd",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-05T18:36:34.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T18:36:34.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64346c60c95584ff58ab1af6"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "Correo electrónico (links a contenido)",
+  "link": "www.linkExample.com",
+  "description": "Me enviaron un link a contenido sospechoso",
+  "name": "",
+  "email": "",
+  "createdAt": {
+    "$date": "2023-04-10T20:06:56.674Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T20:06:56.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64346c7dc95584ff58ab1af8"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "Otro",
+  "link": "www.linkExample.com",
+  "description": "dsadasdasdasdasd\nasdasdasdasd\nsadasdasdadasd",
+  "name": "",
+  "email": "",
+  "createdAt": {
+    "$date": "2023-04-10T20:07:25.736Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T20:07:25.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64346ca8c95584ff58ab1afa"
+  },
+  "situation": "Grooming / Acoso en linea",
+  "where": "Foros o grupos en linea",
+  "link": "www.linkExample.com",
+  "description": "adadadawda wa\nawd aw dawdadawd\nw adawdawd\na wdaw d",
+  "name": "Miguel David",
+  "email": "example@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-10T20:08:08.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T20:08:08.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64348d91bc3b9ab718e6d87c"
+  },
+  "situation": "Imágenes o videos de abuso y/o explotación sexual infantil en internet",
+  "where": "Juegos en Linea",
+  "link": "valorant",
+  "description": "me violaron en competitivo",
+  "name": "",
+  "email": "",
+  "createdAt": {
+    "$date": "2023-04-10T22:28:33.257Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T22:28:33.257Z"
+  }
+}]

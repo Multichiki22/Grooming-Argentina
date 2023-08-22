@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "647653ae517ca3dec49b865b"
+    },
+    "username": 1037672222,
+    "email": "myguelangel12@hotmail.es",
+    "name": "Miguel Angel",
+    "password": "$2b$10$//aFGAzsVmvuy1EQeSq5deViuVlIkfHIXiOeQE83xDcqj5BniPnIm",
+    "rol": "admin",
+    "createdAt": {
+      "$date": "2023-05-30T19:51:10.267Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-30T19:52:59.322Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63ff082341f2163fa8c4adff"
+    },
+    "username": 1111111111,
+    "email": "emailexample@gmail.com",
+    "name": "Usuario de muestra admin",
+    "password": "$2b$10$fH3myv2q3RB00tNyjXW84eF5F2LMbvj2uvXfcYYaOLwyuNIIPTbEq",
+    "rol": "admin",
+    "createdAt": {
+      "$date": "2023-05-30T19:51:10.267Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-30T19:52:59.322Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64026b3aac6152d02dc43290"
+    },
+    "username": 2222222222,
+    "email": "emailexample@gmail.com",
+    "name": "Usuario de muestra human resources",
+    "password": "$2b$10$x8djrUCSTcg6gkR0zxcDv.RATtEZWy69/S0ZP/QevmxpU8vOKudKC",
+    "rol": "hr",
+    "createdAt": {
+      "$date": "2023-05-30T19:51:10.267Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-30T19:52:59.322Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6403db6332d4bdc262daaba8"
+    },
+    "username": 3333333333,
+    "email": "emailexample@gmail.com",
+    "name": "Usuario de muestra editor",
+    "password": "$2b$10$ey8.5loI4mMI3XPdgtIUSeCcoEIKxdNHoq4Ae92DGaFCIghe6DEYi",
+    "rol": "editor",
+    "createdAt": {
+      "$date": "2023-05-30T19:51:10.267Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-30T19:52:59.322Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6406de0aec88465ced17c783"
+    },
+    "username": 4444444444,
+    "email": "emailexample@gmail.com",
+    "name": "Usuario de muestra volunteer",
+    "password": "$2b$10$Ix2FDcGSuhdpxqw95vn.V.ZKMruMnErrzqRnTM4WgZ6lDoXKg0uGq",
+    "rol": "volunteer",
+    "createdAt": {
+      "$date": "2023-05-30T19:51:10.267Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-30T19:52:59.322Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6406de64ec88465ced17c794"
+    },
+    "username": 5555555555,
+    "email": "emailexample@gmail.com",
+    "name": "Usuario de muestra user",
+    "password": "$2b$10$cNGrpodv.q.y6dzcUd0vW.ds63Kv.N9We.Zp5OAf5cGKzPeWhXH62",
+    "rol": "user",
+    "createdAt": {
+      "$date": "2023-05-30T19:51:10.267Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-30T19:52:59.322Z"
+    }
+  }
+]

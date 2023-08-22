@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "63eee9bbd88c1ef935a00e83"
+  },
+  "fullName": "rigoberto urano",
+  "email": "ri@oasdsa.com",
+  "createdAt": {
+    "$date": "2023-02-17T02:43:07.711Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T02:43:07.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f70f1f1cd29898cee77a49"
+  },
+  "fullName": "Rigoberot",
+  "email": "rigoberto@asdasdsdsa.com",
+  "createdAt": {
+    "$date": "2023-02-23T07:00:47.569Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-23T07:00:47.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f70f6bfc75e2789983fa1b"
+  },
+  "fullName": "Rigoberot",
+  "email": "rigoasdsato@asdasdsdsa.com",
+  "createdAt": {
+    "$date": "2023-02-23T07:02:03.670Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-23T07:02:03.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63fbeda3834bb752c94000ea"
+  },
+  "fullName": "prueba de creacion",
+  "email": "testmail02@mail.com",
+  "createdAt": {
+    "$date": "2023-02-26T23:39:15.853Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-26T23:39:15.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6407640232ed3193687ec7c4"
+  },
+  "fullName": "juan Romero",
+  "email": "juanromero@gmail.com",
+  "createdAt": {
+    "$date": "2023-03-07T16:19:14.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-07T16:19:14.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64076c4832ed3193687ec82e"
+  },
+  "fullName": "juan Romero",
+  "email": "juanaaromero@gmail.com",
+  "createdAt": {
+    "$date": "2023-03-07T16:54:32.938Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-07T16:54:32.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6408c1b8567c97781c69cedd"
+  },
+  "fullName": "carolina",
+  "email": "carolinasalazar@gmail.com",
+  "createdAt": {
+    "$date": "2023-03-08T17:11:20.495Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T17:11:20.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6409eecd4576289962ef9117"
+  },
+  "fullName": "miguel lopera",
+  "email": "miguelopera@gmail.com",
+  "createdAt": {
+    "$date": "2023-03-09T14:35:57.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T14:35:57.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6423610304b3a8856593f608"
+  },
+  "fullName": "juan Romero",
+  "email": "juanromeroserna@gmail.com",
+  "createdAt": {
+    "$date": "2023-03-28T21:49:55.657Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-28T21:49:55.657Z"
+  }
+}]

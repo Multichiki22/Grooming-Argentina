@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "63fe88728a6689089692f334"
+  },
+  "name": "Noticia destacada",
+  "createdAt": {
+    "$date": "2023-02-28T23:04:18.466Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-28T23:04:18.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64095cff497cc33b1bc5834b"
+  },
+  "name": "Efemérides",
+  "createdAt": {
+    "$date": "2023-03-09T04:13:51.557Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T04:13:51.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64095d12497cc33b1bc5834e"
+  },
+  "name": "Convenio",
+  "createdAt": {
+    "$date": "2023-03-09T04:14:10.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T04:14:10.052Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64095d20497cc33b1bc58351"
+  },
+  "name": "Académico",
+  "createdAt": {
+    "$date": "2023-03-09T04:14:24.502Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T04:14:24.502Z"
+  }
+}]

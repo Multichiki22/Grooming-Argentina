@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "640906cebbd40312d975834b"
+  },
+  "title": "ley de aumento de penas en grooming",
+  "description": "El día de hoy, el Congreso de la Nación ha aprobado un proyecto de ley que busca aumentar las penas para aquellos que cometan delitos de grooming. La iniciativa, que fue presentada por diversos legisladores, recibió el respaldo unánime de ambas cámaras.\n\nA partir de ahora, aquellos que sean condenados por grooming podrían enfrentar penas de hasta 8 años de prisión, lo que representa un aumento significativo en comparación con la legislación anterior. Esta medida busca proteger a los niños y jóvenes de los peligros de las redes sociales y prevenir futuros casos de grooming en el país.\n\nEl grooming es un delito grave que afecta a niños y jóvenes en todo el mundo, y es especialmente preocupante en Argentina, donde se han reportado numerosos casos en los últimos años. Con esta nueva legislación, el gobierno está tomando medidas firmes para combatir este flagelo y garantizar la seguridad de los más vulnerables.\n\nDesde el noticiero argentino, aplaudimos esta iniciativa y esperamos que otras medidas similares sean implementadas en el futuro para garantizar la protección de los niños y jóvenes de nuestro país. ¡Juntos podemos poner fin al grooming en Argentina!",
+  "img": {
+    "public_id": "NewsImages/gr9qsorsbbbutmswt5aa",
+    "url": "https://res.cloudinary.com/dk4ns1p6v/image/upload/v1678313166/NewsImages/gr9qsorsbbbutmswt5aa.jpg"
+  },
+  "category": [
+    "Noticia destacada"
+  ],
+  "link": "https://tn.com.ar/",
+  "provinceOrLocation": "Buenos Aires",
+  "createdAt": {
+    "$date": "2023-03-09T14:43:35.518Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T14:43:35.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640907d5bbd40312d9758382"
+  },
+  "title": "\"ONG clave en reducción de grooming\"",
+  "description": "Bienvenidos a la BBC, les presentamos una noticia que destaca el papel fundamental de las ONG en la reducción de casos de grooming en el país.\n\nSegún un informe reciente, las ONG que trabajan en la prevención del grooming han sido fundamentales en la disminución de casos en los últimos años. Estas organizaciones han llevado a cabo campañas de concientización y ofrecido apoyo a las víctimas y sus familias, lo que ha contribuido a una mayor conciencia sobre el problema y a la prevención de nuevos casos.\n\nA pesar de que aún queda mucho por hacer, los expertos están de acuerdo en que la colaboración entre el gobierno y las ONG es clave para combatir el grooming y proteger a los niños y jóvenes.\n\nLas ONG han demostrado que pueden hacer una gran diferencia en la lucha contra el grooming, y es importante reconocer su trabajo y apoyarlos en su labor. Con su apoyo y esfuerzo conjunto, podemos seguir trabajando para prevenir el grooming y proteger a los más vulnerables.\n\nDesde la BBC, les instamos a todos a apoyar a las ONG que trabajan en la prevención del grooming y unirse a la lucha contra este delito. Juntos, podemos marcar una gran diferencia en la seguridad de nuestros niños y jóvenes.",
+  "img": {
+    "public_id": "NewsImages/utjxkg3qviapfy8pnwev",
+    "url": "https://res.cloudinary.com/dk4ns1p6v/image/upload/v1678313429/NewsImages/utjxkg3qviapfy8pnwev.jpg"
+  },
+  "category": [
+    "Noticia destacada"
+  ],
+  "link": "https://www.bbc.com/mundo/topics/c7zp57yy6dzt",
+  "provinceOrLocation": "Ciudad Autónoma de Buenos Aires",
+  "createdAt": {
+    "$date": "2023-03-08T22:10:29.612Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T22:10:29.612Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64090855bbd40312d9758384"
+  },
+  "title": "Grooming: 25% jóvenes víctimas",
+  "description": "¡Bienvenidos a la noticia del día! Hoy les traemos una información alarmante sobre el grooming en nuestro país. Según un informe reciente, el porcentaje de personas que cae en el grooming ha aumentado significativamente en los últimos años.\n\nDe acuerdo con el estudio, más del 60% de los niños y jóvenes encuestados han sido víctimas de acoso o abuso en línea, y de ellos, más del 25% han sido objeto de grooming.\n\nEl grooming es un delito grave que puede tener consecuencias devastadoras para las víctimas y sus familias. Es importante que tomemos medidas para proteger a nuestros niños y jóvenes y prevenir futuros casos de grooming.\n\nEl gobierno y diversas organizaciones están trabajando en iniciativas de prevención y educación para reducir el número de víctimas de grooming en el país. Sin embargo, es importante que todos nos involucremos en la lucha contra el grooming y tomemos medidas para proteger a los niños y jóvenes en línea.\n\nDesde la noticia del día, les invitamos a unirse a la lucha contra el grooming y trabajar juntos para garantizar la seguridad de nuestros niños y jóvenes.",
+  "img": {
+    "public_id": "NewsImages/zr48mnsfgm0ntokdsg3y",
+    "url": "https://res.cloudinary.com/dk4ns1p6v/image/upload/v1678313556/NewsImages/zr48mnsfgm0ntokdsg3y.png"
+  },
+  "category": [
+    "Noticia destacada"
+  ],
+  "link": "www.noticiasdelmomento.ar",
+  "provinceOrLocation": "Tucumán",
+  "createdAt": {
+    "$date": "2023-03-08T22:12:37.105Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T22:12:37.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640956bbd23584456a696646"
+  },
+  "title": "¡Prevención vital! Evita el grooming.",
+  "description": "¡Última hora! Expertos en ciberseguridad advierten sobre la necesidad de prevenir el grooming en línea para proteger a niños y adolescentes de abusos sexuales.\n\nSegún un estudio reciente, el grooming en línea está en aumento y cada vez más niños y adolescentes son víctimas de este tipo de abuso. El grooming consiste en la manipulación psicológica que lleva a cabo un adulto con el fin de ganarse la confianza de un menor de edad, con el objetivo de conseguir un encuentro físico y, en algunos casos, realizar actos sexuales.\n\nPara evitar este tipo de situaciones, los expertos recomiendan que los padres estén alerta a las actividades en línea de sus hijos y que hablen con ellos sobre los peligros de interactuar con extraños en Internet. También sugieren que se utilicen herramientas de control parental y se limite el acceso de los niños a ciertas páginas web y aplicaciones.\n\nAdemás, es importante que los niños y adolescentes se sientan cómodos y seguros hablando con sus padres o adultos de confianza sobre cualquier comportamiento inapropiado que puedan encontrar en línea.\n\nLa seguridad en línea es un asunto de gran importancia y debemos tomar medidas para proteger a nuestros hijos de los peligros que existen en Internet. ¡No permitamos que el grooming siga afectando a nuestras familias!",
+  "img": {
+    "public_id": "NewsImages/o0dh0sqfh3n78vrlhxwg",
+    "url": "https://res.cloudinary.com/dk4ns1p6v/image/upload/v1678333626/NewsImages/o0dh0sqfh3n78vrlhxwg.jpg"
+  },
+  "category": [
+    "Noticia destacada"
+  ],
+  "link": "https://www.proyectoeducativo.com/",
+  "provinceOrLocation": "Buenos Aires",
+  "createdAt": {
+    "$date": "2023-03-09T03:47:07.344Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T03:47:07.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64095af25409efc350bbcf3a"
+  },
+  "title": "Patos al poder: ¡El fin de los humanos!",
+  "description": "La historia que les presento es aterradora y sorprendente al mismo tiempo. Ha llegado el momento en que los patos han decidido tomar el control del mundo. Durante años, los patos han sido subestimados y tratados como meros animales de granja, pero en realidad, eran criaturas inteligentes y estratégicas que estaban esperando su momento.\n\nTodo comenzó en un pequeño estanque de un parque local, donde un grupo de patos se reunió para discutir la situación actual del mundo. Decidieron que era hora de tomar el control y comenzaron a planear su revolución. Con el tiempo, su pequeño grupo creció y se convirtió en una fuerza poderosa, con patos líderes en todos los continentes del mundo.\n\nLa primera fase de su plan consistió en infiltrarse en los sistemas de comunicación humana. Utilizando sus habilidades de hacking, los patos lograron infiltrarse en las redes sociales y en los medios de comunicación, logrando así controlar la narrativa y manipular a la opinión pública. Luego, comenzaron a infiltrarse en los gobiernos, colocando patos leales en posiciones clave de poder.\n\nFinalmente, llegó el momento de actuar. Con una coordinación asombrosa, los patos tomaron el control del mundo en un solo día. Las ciudades más grandes fueron tomadas por los patos en un abrir y cerrar de ojos, utilizando técnicas de lucha y estrategias que nunca antes se habían visto. Los humanos se quedaron paralizados ante la fuerza y la inteligencia de los patos.\n\nAhora, los patos están en el poder y están haciendo cambios significativos en el mundo. Las ciudades han sido remodeladas para que se adapten a las necesidades de los patos, y se han construido estanques en cada esquina. Los humanos que son leales al nuevo régimen han sido bienvenidos en la nueva sociedad pato, aunque muchos se sienten extraños en un mundo que ahora está dirigido por estas aves.\n\nEn resumen, la historia de los patos tomando el control del mundo puede parecer una fantasía increíble, pero en este mundo de ciencia ficción, cualquier cosa es posible. ¿Quién sabe lo que el futuro nos deparará?",
+  "img": {
+    "public_id": "NewsImages/xo9t8mqwm0ne65vwpvdn",
+    "url": "https://res.cloudinary.com/dk4ns1p6v/image/upload/v1678334705/NewsImages/xo9t8mqwm0ne65vwpvdn.jpg"
+  },
+  "category": [
+    "Random"
+  ],
+  "link": "Una historia de ciencia ficción que te dejará sin palabras.",
+  "provinceOrLocation": "Tucumán",
+  "createdAt": {
+    "$date": "2023-03-09T04:05:06.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T04:05:06.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64095d8c4a0ca91e1aa738e0"
+  },
+  "title": "Perros cambian vidas",
+  "description": "¡Buena noticia para los amantes de los perros! Un nuevo estudio demuestra que los caninos que han sufrido situaciones de grooming están recuperándose de manera efectiva y rápida.\n\nSegún los expertos, los perros que han sufrido experiencias traumáticas, como el grooming, pueden experimentar ansiedad y miedo en situaciones similares en el futuro. Sin embargo, los resultados de este estudio demuestran que los perros pueden superar estos traumas con la ayuda adecuada.\n\nLos investigadores trabajaron con un grupo de perros que habían sufrido situaciones de grooming en el pasado y les proporcionaron una terapia basada en la exposición gradual a situaciones similares, pero controladas y seguras. Los resultados fueron impresionantes, ya que los perros mejoraron significativamente su comportamiento y su nivel de ansiedad en comparación con el grupo de control.\n\nEsto significa que los perros pueden recuperarse de las situaciones traumáticas, como el grooming, y volver a tener una vida feliz y saludable. Los expertos recomiendan que los dueños de perros que han sufrido situaciones traumáticas busquen la ayuda de un profesional para proporcionar la terapia adecuada y asegurar una recuperación efectiva.\n\n¡Una gran noticia para nuestros amigos caninos!",
+  "img": {
+    "public_id": "NewsImages/ujlextvy6hlzn2xlvsfc",
+    "url": "https://res.cloudinary.com/dk4ns1p6v/image/upload/v1678335371/NewsImages/ujlextvy6hlzn2xlvsfc.png"
+  },
+  "category": [
+    "Noticia destacada"
+  ],
+  "link": "https://adoptaunamigo.com/",
+  "provinceOrLocation": "Ciudad Autónoma de Buenos Aires",
+  "createdAt": {
+    "$date": "2023-03-09T04:16:12.497Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-09T04:16:12.497Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6409f0974576289962ef9156"
+  },
+  "title": "prueba de noticia",
+  "description": "mensjae de prueba",
+  "img": {
+    "public_id": "NewsImages/one7vsthhvvnwmdxsalb",
+    "url": "https://res.cloudinary.com/dk4ns1p6v/image/upload/v1678373015/NewsImages/one7vsthhvvnwmdxsalb.jpg"
+  },
+  "category": [
+    "Random"
+  ],
+  "link": "https://www.proyectoeducativo.com/",
+  "provinceOrLocation": "Mendoza",
+  "createdAt": {
+    "$date": "2023-03-08T22:06:06.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T22:06:06.948Z"
+  }
+}]
+
+

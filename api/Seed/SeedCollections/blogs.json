@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "64090903bbd40312d975839a"
+  },
+  "username": "1030634751",
+  "author": "Andres Vargas 6403d",
+  "title": "\"Juntos contra el ciberacoso\"",
+  "subtitle": "\"Consejos útiles para protegerte y prevenir el acoso en línea\"",
+  "content": "¡Bienvenidos a nuestro blog sobre el combate y concientización del ciberacoso!\n\nEl ciberacoso es un problema creciente en todo el mundo y es algo que todos debemos tomar en serio. Desde las ofensas verbales en línea hasta el acoso sexual y el grooming, el ciberacoso puede tener graves consecuencias emocionales y psicológicas para las víctimas.\n\nEs importante que todos tomemos medidas para combatir el ciberacoso y concientizar sobre sus efectos negativos. Aquí te presentamos algunos consejos útiles para ayudarte a protegerte y prevenir el ciberacoso:\n\n1.Sé consciente de tus acciones en línea: piensa antes de publicar algo y asegúrate de que no estás haciendo daño a nadie.\n\n2.No respondas a los mensajes de acoso: esto puede empeorar la situación y hacer que el acosador continúe su comportamiento.\n\n3.Habla con alguien de confianza: si estás siendo acosado, es importante que hables con alguien en quien confíes para obtener apoyo.\n\n4.Informa el acoso: reporta el acoso a las autoridades correspondientes, la plataforma en línea donde ocurrió y/o una organización especializada en el tema.\n\n5.Educa a otros: habla con amigos y familiares sobre el ciberacoso y cómo prevenirlo. También puedes unirte a grupos y organizaciones que trabajen en la prevención del acoso en línea.\n\nLa concientización y prevención del ciberacoso es responsabilidad de todos. Juntos podemos hacer una diferencia y asegurarnos de que las redes sociales y otras plataformas en línea sean espacios seguros y libres de acoso para todos.",
+  "createdAt": {
+    "$date": "2023-04-06T19:11:43.142Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T19:11:43.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640909d4bbd40312d97583e5"
+  },
+  "username": "1030634751",
+  "author": "Andres Vargas 6403d",
+  "title": "\"Grooming: un enemigo invisible en línea\"",
+  "subtitle": "\"Descubre cómo protegerte y prevenir el acoso en línea con nuestros consejos útiles\"",
+  "content": "El grooming es un delito que ocurre cuando un adulto se comunica con un niño o adolescente en línea con la intención de abusar sexualmente de ellos. Este es un problema grave y creciente en todo el mundo, y es importante que todos estemos informados sobre los riesgos y medidas preventivas que podemos tomar.\n\nAquí te presentamos algunos consejos útiles para ayudarte a protegerte y prevenir el grooming:\n\nMantén tus cuentas de redes sociales y correos electrónicos privados: no compartas información personal con desconocidos.\n\nNo aceptes solicitudes de amistad de personas desconocidas: verifica siempre la identidad de las personas que quieren conectarse contigo en línea.\n\nNo compartas fotos o videos inapropiados: esto puede ser utilizado en tu contra.\n\nHabla con alguien de confianza: si alguien en línea te hace sentir incómodo o te envía mensajes inapropiados, habla con alguien de confianza para obtener apoyo y ayuda.\n\nDenuncia el grooming: si alguien intenta acosarte o abusar de ti en línea, repórtalo a las autoridades y/o a una organización especializada en el tema.\n\nEduca a otros: habla con amigos y familiares sobre el grooming y cómo prevenirlo. También puedes unirte a grupos y organizaciones que trabajen en la prevención del grooming.\n\nEs importante que todos tomemos medidas para prevenir el grooming y proteger a nuestros niños y jóvenes. La educación y la concientización son claves en la lucha contra este delito. Juntos podemos hacer una diferencia y asegurarnos de que nuestras comunidades en línea sean espacios seguros y libres de abuso para todos.",
+  "createdAt": {
+    "$date": "2023-03-08T22:19:00.397Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T22:19:00.397Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642f196f7daf10fa22af278c"
+  },
+  "username": "1030634751",
+  "author": "Andres Vargas 6403d",
+  "title": "Muestra blog",
+  "subtitle": "blog de muestra",
+  "content": "In eget leo sed velit luctus maximus. Integer fringilla vestibulum neque, in gravida ipsum fermentum sit amet. In ut aliquet felis. Phasellus luctus nunc sed elit ultrices pharetra. Donec et urna et nibh tempus tempus. Fusce ultricies tortor nec dui tincidunt, eget bibendum justo volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse non condimentum odio, a pulvinar metus. Maecenas sit amet nulla dui. Quisque eu neque dapibus, aliquet mauris at, tristique mi. Sed tristique ipsum id ornare vehicula. In ac ante imperdiet, malesuada risus vel, fringilla lacus. Nullam quis fringilla ex.",
+  "createdAt": {
+    "$date": "2023-03-08T22:15:31.140Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T22:15:31.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "642f1ab97daf10fa22af27ba"
+  },
+  "username": "46182874",
+  "author": "salome ferreira 64089",
+  "title": "Prevencion del cyber acoso",
+  "subtitle": "Grooming",
+  "content": " In eget leo sed velit luctus maximus. Integer fringilla vestibulum neque, in gravida ipsum fermentum sit amet. In ut aliquet felis. Phasellus luctus nunc sed elit ultrices pharetra. Donec et urna et nibh tempus tempus. Fusce ultricies tortor nec dui tincidunt, eget bibendum justo volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse non condimentum odio, a pulvinar metus. Maecenas sit amet nulla dui. Quisque eu neque dapibus, aliquet mauris at, tristique mi. Sed tristique ipsum id ornare vehicula. In ac ante imperdiet, malesuada risus vel, fringilla lacus. Nullam quis fringilla ex.",
+  "createdAt": {
+    "$date": "2023-04-06T19:17:13.514Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T19:17:13.514Z"
+  }
+}]
