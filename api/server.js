@@ -33,7 +33,7 @@ app.use(express.json());
 
 app.use('/', require("./routes/MainRouter"))
 
-mongoose.connection.once("open", () => {
+mongoose.connection.once("open", async() => {
   console.log("Connected to database")
   app.listen(PORT, () => console.log(`Server running on port ${PORT}`))
 })
