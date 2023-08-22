@@ -1,5 +1,17 @@
 version: '3'
 services:
+  mongo:
+    container_name: mongo
+    image: mongo
+    restart: always 
+    ports:
+      - '27017:27017'
+    volumes:
+      - MongoCollections:/data/db
+  mongo_seed:
+    build: ./seed
+    depends_on:
+      - mongo
   app:
     container_name: grooming_back_end__container
     image: grooming_back_end_image
@@ -8,12 +20,10 @@ services:
     restart: unless-stopped
     build: .
     ports:
-      - '3500:3000'
+      - '4000:3000'
     depends_on:
       - mongo
-  mongo:
-    container_name: mongo
-    image: mongo
-    restart: always 
-    ports:
-      - '27017:27017'
+  
+volumes:
+  MongoCollections:
+    external: false
