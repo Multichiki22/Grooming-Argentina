@@ -18,6 +18,8 @@ import {
   WhatsappIcon,
 } from 'react-share';
 
+const  deployLink = process.env.REACT_APP_REST_API
+
 const NewDetails = () => {
   const dispatch = useDispatch();
   const { id } = useParams();
@@ -64,31 +66,31 @@ const NewDetails = () => {
           <div className={style.text}>
             <h5>Compartir en:</h5>
             <FacebookShareButton
-              url={`http://localhost:3000/noticias/${newID._id}`}
+              url={`${deployLink}/noticias/${newID._id}`}
               quote={newID.title}
             >
               <FacebookIcon size={40} round={true} />
             </FacebookShareButton>
             <LinkedinShareButton
-              url={`http://localhost:3000/noticias/${newID._id}`}
+              url={`${deployLink}/noticias/${newID._id}`}
               title={newID.title}
             >
               <LinkedinIcon size={40} round={true} />
             </LinkedinShareButton>
             <TelegramShareButton
-              url={`http://localhost:3000/noticias/${newID._id}`}
+              url={`${deployLink}/noticias/${newID._id}`}
               title={newID.title}
             >
               <TelegramIcon size={40} round={true} />
             </TelegramShareButton>
             <TwitterShareButton
-              url={`http://localhost:3000/noticias/${newID._id}`}
+              url={`${deployLink}/noticias/${newID._id}`}
               title={newID.title}
             >
               <TwitterIcon size={40} round={true} />
             </TwitterShareButton>
             <WhatsappShareButton
-              url={`http://localhost:3000/noticias/${newID._id}`}
+              url={`${deployLink}/noticias/${newID._id}`}
               title={newID.title}
             >
               <WhatsappIcon size={40} round={true} />

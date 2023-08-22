@@ -14,6 +14,8 @@ import logoInhope from '../../../assets/INHOPE.jpeg';
 import style from './Denounces.module.css';
 import showAlert from '../../ShowAlert/ShowAlert';
 
+const  deployLink = process.env.REACT_APP_REST_API
+
 const Denounces = () => {
   const [validated, setValidated] = useState(false);
   const [denounceForm, setDenounceForm] = useState({
@@ -70,7 +72,7 @@ const Denounces = () => {
 
     try {
       const response = await axios.post(
-        'http://localhost:3500/denounces',
+        `${deployLink}/denounces`,
         denounceForm
       );
       if (response.status === 201) {

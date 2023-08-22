@@ -3,6 +3,8 @@ import { Container, Row, Col } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 import s from './Footerx.module.css'
 
+const  WhatsAppNumber = process.env.REACT_APP_WHATSAPP_NUMBER
+const  EmailContact = process.env.REACT_APP_CONTACT_EMAIL
 
 const Footerx = () => {
 
@@ -35,8 +37,8 @@ const Footerx = () => {
             <h2 className={s.h2_ft}>¿Tienes Preguntas?</h2>
             <div className="block-23 mb-3">
               <p className={s.data_Contact}><span className='me-4'><i className="bi bi-house-door-fill"></i></span>Venezuela 110 1°, C1095 AAD Buenos Aires, Argentina</p>
-              <p className={s.data_Contact}><span className='me-4'><i className="bi bi-telephone-fill"></i></span>+54 9 11-2481-1722</p>
-              <p className={s.data_Contact}><span className='me-4'><i className="bi bi-envelope-at"></i></span>contacto@groomingarg.org</p>
+              <p className={s.data_Contact}><span className='me-4'><i className="bi bi-telephone-fill"></i></span>{WhatsAppNumber}</p>
+              <p className={s.data_Contact}><span className='me-4'><i className="bi bi-envelope-at"></i></span>{EmailContact}</p>
             </div>
           </Col>
         </Row >

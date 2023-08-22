@@ -15,6 +15,8 @@ import {
   WhatsappIcon,
 } from 'react-share';
 
+const  deployLink = process.env.REACT_APP_REST_API
+
 const NewCard = ({
   id,
   image,
@@ -55,31 +57,31 @@ const NewCard = ({
           <div className='card-body'>
             <div className={style.moreButton}>
               <FacebookShareButton
-                url={`http://localhost:3000/noticias/${id}`}
+                url={`${deployLink}/noticias/${id}`}
                 quote={title}
               >
                 <FacebookIcon size={40} round={true} />
               </FacebookShareButton>
               <LinkedinShareButton
-                url={`http://localhost:3000/noticias/${id}`}
+                url={`${deployLink}/noticias/${id}`}
                 title={title}
               >
                 <LinkedinIcon size={40} round={true} />
               </LinkedinShareButton>
               <TelegramShareButton
-                url={`http://localhost:3000/noticias/${id}`}
+                url={`${deployLink}/noticias/${id}`}
                 title={title}
               >
                 <TelegramIcon size={40} round={true} />
               </TelegramShareButton>
               <TwitterShareButton
-                url={`http://localhost:3000/noticias/${id}`}
+                url={`${deployLink}/noticias/${id}`}
                 title={title}
               >
                 <TwitterIcon size={40} round={true} />
               </TwitterShareButton>
               <WhatsappShareButton
-                url={`http://localhost:3000/noticias/${id}`}
+                url={`${deployLink}/noticias/${id}`}
                 title={title}
               >
                 <WhatsappIcon size={40} round={true} />

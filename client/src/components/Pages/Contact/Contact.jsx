@@ -6,6 +6,9 @@ import emailjs from '@emailjs/browser';
 import style from './Contact.module.css';
 import showAlert from '../../ShowAlert/ShowAlert';
 
+const  WhatsAppNumber = process.env.REACT_APP_WHATSAPP_NUMBER
+const  EmailContact = process.env.REACT_APP_CONTACT_EMAIL
+
 const Contact = () => {
   const form = useRef();
 
@@ -63,7 +66,7 @@ const Contact = () => {
           <article className={style.contact_option}>
             <h3 className={style.contact_link}>Email:</h3>
             <a
-              href='mailto:contacto@groomingarg.org'
+              href={`mailto:${EmailContact}`}
               target='_blank'
               rel='noopener noreferrer'
               className={style.icon}
@@ -75,7 +78,7 @@ const Contact = () => {
           <article className={style.contact_option}>
             <h3 className={style.contact_link}>WhatsApp:</h3>
             <a
-              href='https://wa.me/+5491124811722'
+              href={`https://wa.me/${WhatsAppNumber}`}
               target='_blank'
               rel='noopener noreferrer'
               className={style.icon}

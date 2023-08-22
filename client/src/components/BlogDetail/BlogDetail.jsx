@@ -19,6 +19,8 @@ import {
   WhatsappIcon,
 } from 'react-share';
 
+const  deployLink = process.env.REACT_APP_REST_API
+
 const NewDetails = () => {
   const dispatch = useDispatch();
   const { id } = useParams();
@@ -56,31 +58,31 @@ const NewDetails = () => {
             <h5 class='card-text'>Compartir en:</h5>
             <div className={style.buttons}>
               <FacebookShareButton
-                url={`http://localhost:3000/blog/${blogId._id}`}
+                url={`${deployLink}/blog/${blogId._id}`}
                 quote={blogId.title}
               >
                 <FacebookIcon size={40} round={true} />
               </FacebookShareButton>
               <LinkedinShareButton
-                url={`http://localhost:3000/blog/${blogId._id}`}
+                url={`${deployLink}/blog/${blogId._id}`}
                 title={blogId.title}
               >
                 <LinkedinIcon size={40} round={true} />
               </LinkedinShareButton>
               <TelegramShareButton
-                url={`http://localhost:3000/blog/${blogId._id}`}
+                url={`${deployLink}/blog/${blogId._id}`}
                 title={blogId.title}
               >
                 <TelegramIcon size={40} round={true} />
               </TelegramShareButton>
               <TwitterShareButton
-                url={`http://localhost:3000/blog/${blogId._id}`}
+                url={`${deployLink}/blog/${blogId._id}`}
                 title={blogId.title}
               >
                 <TwitterIcon size={40} round={true} />
               </TwitterShareButton>
               <WhatsappShareButton
-                url={`http://localhost:3000/blog/${blogId._id}`}
+                url={`${deployLink}/blog/${blogId._id}`}
                 title={blogId.title}
               >
                 <WhatsappIcon size={40} round={true} />
