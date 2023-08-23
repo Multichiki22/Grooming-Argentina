@@ -16,6 +16,26 @@
   font-family: 'Lato', sans-serif;
 }
 
+.disclaimer {
+  background-color: rgb(154, 229, 248);
+  color: rgb(195, 13, 0);
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: .5em;
+  border-radius: 1em 0 0 0;
+}
+.textDisclaimer{
+  margin: 0
+}
+.linkContainer{
+  display: flex;
+  gap: 1em;
+}
+
 .home,
 .reports,
 .products {
