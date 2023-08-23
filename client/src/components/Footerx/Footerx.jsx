@@ -43,7 +43,7 @@ const Footerx = () => {
           </Col>
         </Row >
         <div className={s.copy} >
-          <p className={s.copy}> Copyright ©2023 All rights reserved | This template is made with <span className='text-decoration-underline'>Henry FT-33A</span></p>
+          <p className={s.copy}> Copyright ©2023 All rights reserved | This project was made by <a className='text-decoration-underline' target='blank' href='https://github.com/SourceSquack'>SourceSquack</a></p>
         </div>
       </Container >
     </footer >

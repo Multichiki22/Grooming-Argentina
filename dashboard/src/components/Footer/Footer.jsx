@@ -7,11 +7,7 @@ const Footer = () => {
     <footer className={s.footer}>
       <Container>
         <div className={s.copy}>
-          <p className={s.copy}>
-            {" "}
-            Copyright ©2023 All rights reserved | This template is made by{" "}
-            <span className="text-decoration-underline">Henry FT-33A G12</span>
-          </p>
+        <p className={s.copy}> Copyright ©2023 All rights reserved | This project was made by <a className='text-decoration-underline' target='blank' href='https://github.com/SourceSquack'>SourceSquack</a></p>
         </div>
       </Container>
     </footer>
