@@ -5,7 +5,6 @@ import Form from "react-bootstrap/Form";
 import PaginationComp from "../../pages/PaginationComp/PaginationComp";
 import VideoCard from "../VideoCard/VideoCard";
 import s from "./Students.module.css";
-import { Link } from "react-router-dom";
 
 export default function Students() {
   const [videos, setVideos] = useState();
