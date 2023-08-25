@@ -100,10 +100,10 @@ function App() {
           </a>
           <a
             className="Links"
-            href="http://52.72.187.107/Grooming_argentina/"
+            href="https://grooming-argentina-client-demo.vercel.app/"
             target="blank"
           >
-            Cliente
+            Client
           </a>
         </div>
       </div>

@@ -6,12 +6,12 @@ Este repositorio es una muestra del proyecto que realizamos para grooming argent
 
 ## Como se ve la pagina?
 
-<a href="http://52.72.187.107/Grooming_argentina/">Look at the client demo app here</a>
+<a href="https://grooming-argentina-client-demo.vercel.app/">Look at the client demo app here</a>
 
 **La informacion mostrada en esta pagina es unicamente de muestra y no es reflejo de informacion real.**
 __Actualmente esta pagina no tiene dominio o certificado ssl pero es completamente funcional__
 
-<a href="http://52.72.187.107/Grooming_argentina_dashboard/">Look at the dashboard app her</a>
+<a href="https://grooming-argentina-demo-dashboard.vercel.app/">Look at the dashboard app her</a>
 
 **La informacion mostrada en esta pagina es unicamente de muestra y no es reflejo de informacion real.**
 __Actualmente esta pagina no tiene dominio o certificado ssl pero es completamente funcional__
@@ -40,10 +40,9 @@ username: 5555555555
 password: 5555555555
 ```
 ## Tecnologias usadas
-### Deployment
+### API Deployment
 - AWS EC2
 - Docker
-- Nginx
 - Linux
 ### API
 - Express

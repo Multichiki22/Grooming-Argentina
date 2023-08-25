@@ -8,12 +8,12 @@ This repository is a sample of the project we carried out for Grooming Argentina
 
 ## What does the page look like?
 
-<a href="http://52.72.187.107/Grooming_argentina/">Look at the client demo app here</a>
+<a href="https://grooming-argentina-client-demo.vercel.app/">Look at the client demo app here</a>
 
 **The information displayed on this page is for demonstration purposes only and does not reflect real information.**
 __Currently this pages doesnt have a domain or ssl certificate but is completly functional__
 
-<a href="http://52.72.187.107/Grooming_argentina_dashboard/">Look at the dashboard app her</a>
+<a href="https://grooming-argentina-demo-dashboard.vercel.app/">Look at the dashboard app her</a>
 
 **The information displayed on this page is for demonstration purposes only and does not reflect real information.**
 __Currently this pages doesnt have a domain or ssl certificate but is completly functional__
@@ -43,10 +43,9 @@ username: 5555555555
 password: 5555555555
 ```
 ## Technologies used
-### Deployment
+### API Deployment
 - AWS EC2
 - Docker
-- Nginx
 - Linux
 ### API
 - Express
