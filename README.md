@@ -8,12 +8,12 @@ This repository is a sample of the project we carried out for Grooming Argentina
 
 ## What does the page look like?
 
-<a href="https://grooming-argentina-client-demo.vercel.app/">Look at the client demo app here</a>
+<a href="https://grooming-argentina-client-demo.vercel.app/" target="blank"><b>Look at the client demo app here</b></a>
 
 **The information displayed on this page is for demonstration purposes only and does not reflect real information.**
 __Currently this pages doesnt have a domain or ssl certificate but is completly functional__
 
-<a href="https://grooming-argentina-demo-dashboard.vercel.app/">Look at the dashboard app her</a>
+<a href="https://grooming-argentina-demo-dashboard.vercel.app/" target="blank"><b>Look at the dashboard app here</b></a>
 
 **The information displayed on this page is for demonstration purposes only and does not reflect real information.**
 __Currently this pages doesnt have a domain or ssl certificate but is completly functional__

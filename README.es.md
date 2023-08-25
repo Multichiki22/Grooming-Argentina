@@ -6,12 +6,12 @@ Este repositorio es una muestra del proyecto que realizamos para grooming argent
 
 ## Como se ve la pagina?
 
-<a href="https://grooming-argentina-client-demo.vercel.app/">Look at the client demo app here</a>
+<a href="https://grooming-argentina-client-demo.vercel.app/" target="blank"><b>Mira la demo de la aplicacion aqui</b></a>
 
 **La informacion mostrada en esta pagina es unicamente de muestra y no es reflejo de informacion real.**
 __Actualmente esta pagina no tiene dominio o certificado ssl pero es completamente funcional__
 
-<a href="https://grooming-argentina-demo-dashboard.vercel.app/">Look at the dashboard app her</a>
+<a href="https://grooming-argentina-demo-dashboard.vercel.app/" target="blank"><b>Mira la demo del panel de control aqui</b></a>
 
 **La informacion mostrada en esta pagina es unicamente de muestra y no es reflejo de informacion real.**
 __Actualmente esta pagina no tiene dominio o certificado ssl pero es completamente funcional__
