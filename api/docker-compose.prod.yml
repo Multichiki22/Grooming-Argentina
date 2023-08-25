@@ -9,7 +9,7 @@ services:
     volumes:
       - MongoCollections:/data/db
   mongo_seed:
-    build: ./seed
+    build: ./Seed
     depends_on:
       - mongo
   app:
